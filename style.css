@@ -1,0 +1,17 @@
+body { 
+    background-image: url(img/bc2.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    object-fit: cover;
+}
+h1 style {
+font-weight: 500;
+}
+
+img {
+    size: 50%;
+}
+
+a {
+    color: whitesmoke;
+}
